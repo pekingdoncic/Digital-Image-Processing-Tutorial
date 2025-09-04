@@ -1,0 +1,76 @@
+名称：ACDSee
+版本：3.1 (SR-1)(03/12) Update For v3.0/3.1
+平台：win9X、winnt、Win2k 
+性质：共享软件
+说明：高性能的看图程序，支持 BMP,GIF,JPG,TGA,TIF 等各种常见的图形文件格式，图片打开速度极快。 你还可以直接用它查看动画 GIF。它还可以为你的每一个目录建立一个相册。 
+主页：http://www.acdsystems.com/pages/index.html 
+
+
+名称：PicaView32
+版本：1.33
+平台：Win9x、Winnt 
+性质：共享软件
+说明：ACD公司继ACDSee看图程序后，又一力作，相当方便的看图程序，使用时只需点选图形文件按鼠标右键，即会于右键的快显功能表中显示图片，真是相当快速且方便，另亦提供列印、转文件、翻转、设成桌布等功能，使用起来更是好用。 
+主页：http://www.acdsystems.com/pages/index.html 
+
+
+名称：Digital Image Management Suite
+版本：v1.5
+平台：Win9x、Winnt 
+性质：共享软件
+说明：包含了叁个ACD Systems所引以为傲的软件，有ACDSee32(v2.42版)、ImageFox (v1.2版)、PicaView32(v1.31版)。而Digital Image Management Suite随着版本更新，上述叁个软件版本也都会跟着更新，甚至ACD Systems也可能整合其它的软件进来？至于上述叁个软件功能，ACDSee32是一套功能强大、速度超快的看d图软件，以类似文件总管的操作介面来浏览资料夹中的各式图形文件，支持最常见的BMP、DCX、GIF、JPEG、IFF、PNG、PCX、PIC、 PNG、PSD、TGA、TIFF、WMF等图形文件格式，可以瞬间放大与缩小图片、支持幻灯片秀图功能、编辑描述说明外也可以打印、转图、设成桌布。ImageFox则是加强Windows应用软件开启文件和储存文件时的浏览结合，增加操作及方便性。至于PicaView32则是一个附加于文件总管鼠标右键快显功能表的图形预览工具，当安装完之后，只需在文件总管上对图形文件按鼠标右键快显功能表即可对该图形文件做预览、转图、设成桌面等功能，支持BMP、DCX、GIF、JPEG、IFF、PNG、PCX、PIC、PNG、PSD、TGA、TIFF、WMF等图形文件格式.  
+主页：http://www.acdsys.com/ 
+
+
+名称：金山图典
+版本：1.0 测试版
+平台：win9X、winnt、Win2k 
+性质：测试软件
+说明：对于喜欢用计算机做图象处理的专业或非专业人士来说，一个好的图象图片浏览器就象一双好的眼睛一样重要。因为只有拥有一个好的图片浏览器，才能方便快捷的从无边的素材的海中，找到所真正需要的图片资料。金山图典是个图库好管家，可以为你将电脑中所有的图片文件都管理得服服贴贴。 金山图典界面亲切友好，文件管理系统非常完善。支持多种图片格式，文件的另存一项就可以为用户提供包括： BMP、JGEP、GIF、LEAD、TIF、SUN RAS等，30多种类型的143种存储格式，选择合适的格式存储，可以大大节省空间。图片编辑功能是这款软件的另一个特色，除了常规的文件的拷贝、裁减、放大、缩小、改变尺寸等功能外，更有图象变换，色彩处理三大模块。金山图典还带有自己的图库，共有十个系列，三千多张图片，全部都是来自台湾的经典时尚之作！在这里为你提供部分图片的下载。 
+主页：http://www.kingsoft.net/ 
+
+
+名称：Ulead Photo Explorer
+版本：6.02
+平台：win9X、winnt 
+性质：共享软件
+说明：一个绝对优秀的图形处理和浏览软件。包括了所有图形的基本处理，对图形进行加工。也是绝对出色的图片浏览器，比起ACDSee32有过之而无不及，界面也是相当漂亮，每一个按钮都十分好看！充分体现了个性化的设计，支持多达几十种图片格式，可以把同类型的图片合并成一个图片集，加上背景音乐做成屏幕保护或壁纸等等，还支持图形旋转、转换、基本图形处理功能(具有PhotoShop的一些插件功能)支持数码相机、扫描器直接捕获图像。 
+主页：http://www.screenlock.com/ 
+
+
+名称：PicViewer
+版本：2.72
+平台：win9X、winnt 
+性质：共享软件
+说明：支持 BMP, ICO, WMF, EMF, GIF, JPG, PNG, PCX 的图象浏览工具。 
+
+
+名称：Image eye
+版本：5.5
+平台：win9X、winnt 
+性质：共享软件
+说明：小巧的看图程序，支持BBM、BMP、CUR、DIB、FIF、GIF、ICO、IFF、JIF、JPG、LBM、MAC、NEO、PBM、PCX、PGM、PIC、PNG、PPM、RAS、RLE、SUN、TGA、TIF等多种格式，您可将它设成内置看图程序，以鼠标右键开启看图，它并可旋转90度看图，并可将图形设置成桌面布景。 
+
+
+名称：PhotoPhilia
+版本：1.50
+平台：win9X、winnt 
+性质：共享软件
+说明：很好的看图工具，支持30种格式以上的图片浏览工具，类资源管理器界面，能生成缩略图，可以制作电子相册，能够转换图象格式，支持打印，支持拖放，支持SlideShow（提供186种特殊效果），可以控制明亮、对比度等。它还使用Cache和预读技术提高性能。 
+主页：http://www.pholix.com/ 
+
+
+名称：Advanced Batch Converter
+版本：2.31
+平台：win9X、winnt 
+性质：共享软件
+说明：能够批量将 BMP、JPG、GIF、PNG、TIF、JPEG、RLE、DIB、PCD、DXF、ICO、WMF、TIFF、TGA、PCX、DCX、EMF、JIF、JPE、JFIF、EPS 文件转换为 BMP、JPG、JPEG、GIF、PNG、PCX、TGA、EPS、TIF、TIFF 文件，自带一个图形浏览器。 
+主页：http://gold-software.hypermart.net/ 
+
+
+名称：Image Converter Plus
+版本：4.21
+平台：Win9x、Winnt 
+性质：共享软件
+说明：方便快捷的图像格式转换软件，支持BMP、JPG、GIF、TGA、TIF等文件格式，可拷贝到剪贴板，可改变颜色位数和JPG文件质量，有小样片。另外，内附一个QuickView看图功能，这个功能可让你观看十七种常见的图形文件格式。(注：为ImageConverter加强版，也就是ImageConverter 3.0版开始改名为ImageConverter Plus，并新增了ImagePageWizard和HTMLWizard两种新功能)
+主页：http://www.fcoder.com/index.html 

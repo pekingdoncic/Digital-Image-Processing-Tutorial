@@ -1,0 +1,35 @@
+-----------------------------------------------------------------------------------------------------
+License
+-----------------------------------------------------------------------------------------------------
+By receiving and/or using ACD Systems software, you accept the following Evaluation and Registered User Agreement.  This agreement is a binding legal agreement between ACD Systems Ltd. and the purchasers, users or evaluators of ACD Systems' software and products.  IF YOU DO NOT INTEND TO HONOR THIS AGREEMENT, TERMINATE THE SOFTWARE INSTALLATION NOW.
+
+-----------------------------------------------------------------------------------------------------
+Evaluation (Unregistered) and Registered User Agreement
+-----------------------------------------------------------------------------------------------------
+You may evaluate the Shareware program for maximum of thirty calendar days, after which you must register the program with ACD Systems Ltd. or remove the software from your computer.  
+
+You may allow other users to evaluate copies of the unregistered Shareware. All evaluation users are subject to the terms of this agreement.
+
+The evaluator/user/buyer/owner is not allowed to attempt to reverse engineer, disassemble or decompile ACD Systems Software and products. 
+
+ACD Systems name and any logo or graphics file that represents our software may not be used in any way to promote products developed with our software.  All parts of ACD Systems software and products are copyright protected.  No program, code, part, image, video clip, audio sample, text or computer generated sequence of images may be copied or used in any way by the user except as intended within the bounds of the single user program.
+
+The evaluator/user/buyer/owner of ACD Systems software will indemnify, hold harmless, and defend ACD Systems against lawsuits, claims, costs associated with defense or accusations that result from the use of ACD Systems software. 
+ 
+ACD Systems is not responsible for any damages whatsoever, including loss of information, interruption of business, personal injury and/or any damage or consequential damage without limitation, incurred before, during or after the use of our products.  Our entire liability, without exception, is limited to the customers' reimbursement of the purchase price of the software (maximum being the suggested retail price as listed by ACD Systems) in exchange for the return of the product, all copies, registration papers and manuals, and all materials that constitute a transfer of ownership from the customer back to ACD Systems.
+
+Each registered copy of the ACD Systems software may be used in only one single location by one user.  Use of the software means that you have loaded the program and run it or have installed the program onto a computer.  If you install the software onto a multi-user platform or network, each and every individual user of the software must be registered separately.
+
+You may make one copy of the registered software for backup purposes, providing you only have one copy installed on one computer being used by one person. If any person other than yourself uses ACD Systems' software registered in your name, regardless of whether it is at the same time or different times, then this agreement is being violated!  
+
+The sale of and or distribution of registered copies of this software is strictly forbidden.  It is a violation of this agreement to loan, rent, lease, borrow, or transfer the use of registered copies of ACD Systems Software products.
+
+-----------------------------------------------------------------------------------------------------
+Distribution
+-----------------------------------------------------------------------------------------------------
+This shareware software may be freely distributed, provided that:
+
+	1. Such distribution includes only the original archive supplied by ACD Systems, Ltd.  You may not alter, delete or add any files in the distribution archive.
+	2. The distribution does not include a registration number.  In particular, you may not distribute a registered piece of software.
+	3. No money is charged to the person receiving the software, beyond reasonable cost of packaging and other overhead.
+

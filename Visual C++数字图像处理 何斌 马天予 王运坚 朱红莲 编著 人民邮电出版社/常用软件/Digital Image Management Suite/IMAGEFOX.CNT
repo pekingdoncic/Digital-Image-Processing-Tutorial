@@ -1,0 +1,30 @@
+:Base ImageFox.hlp
+:Title ImageFox On-line Documentation
+1 Overview
+2 Introduction=INTRODUCTION>DefWin
+2 Features=FEATURES>DefWin
+2 What's new?=WHATSNEW>DefWin
+1 Using ImageFox
+2 Image preview=PREVIEW>DefWin
+2 Resizing the dialog box=SIZING>DefWin
+2 Favorites=FAVORITES>DefWin
+2 Playing sound files=PLAYSOUNDS>DefWin
+2 File descriptions=FILEDESCRIPTIONS>DefWin
+2 Task bar tray icon=TRAYICON>DefWin
+2 Status bar=STATUSBAR>DefWin
+2 Keyboard shortcuts=KEYBOARD_SHORTCUTS>DefWin
+2 Application incompatibilities=INCOMPATIBILITIES>DefWin
+2 Uninstalling ImageFox=UNINSTALLING>DefWin
+1 Registration and licensing
+2 About registration=IDH_REGISTRATION>DefWin
+2 Why should I register?=REGISTRATION_WHY>DefWin
+2 How can I register?=REGISTRATION_HOW>DefWin
+2 Unlocking the software=REGISTRATION_UNLOCK>DefWin
+2 Getting a multiple-user site license=REGISTRATION_SITE_LICENSE>DefWin
+2 Registration form=REGISTRATION_FORM>DefWin
+2 Licensing details=REGISTRATION_LICENSE>DefWin
+1 About ImageFox and ACD Systems
+2 Getting program updates=ABOUT_UPDATES>DefWin
+2 Getting technical support and contributing feedback=ABOUT_SUPPORT>DefWin
+2 Contacting ACD Systems=ABOUT_CONTACT>DefWin
+2 Acknowledgments=ABOUT_ACKNOWLEDGMENTS>DefWin

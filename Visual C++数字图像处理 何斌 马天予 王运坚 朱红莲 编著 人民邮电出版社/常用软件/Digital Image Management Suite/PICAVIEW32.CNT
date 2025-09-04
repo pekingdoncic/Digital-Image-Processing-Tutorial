@@ -1,0 +1,33 @@
+:Base PicaView32.hlp
+:Title PicaView32 On-line Documentation
+1 Introduction
+2 Overview=OVERVIEW>DefWin
+2 What can I do with PicaView?=WHATCANIDO>DefWin
+2 Image formats supported=IMAGEFORMATS>DefWin
+2 What's new?=CHANGES>DefWin
+1 Using PicaView
+2 General=USING_PICAVIEW>DefWin
+2 Context menu commands=CONTEXT_MENU>DefWin
+2 Image thumbnail=MENU_THUMBNAIL>DefWin
+2 Image format and dimensions=MENU_DIMENSIONS>DefWin
+2 Viewing=VIEW_WINDOW>DefWin
+2 Printing=MENU_PRINT>DefWin
+2 Copying=MENU_COPY>DefWin
+2 Format conversion=MENU_CONVERT>DefWin
+2 Rotation=IDH_ROTATE>DefWin
+2 Wallpaper=MENU_WALLPAPER>DefWin
+2 Options=IDH_OPTIONS>DefWin
+2 Full-size viewing windows=VIEW_WINDOW>DefWin
+1 Registration and licensing
+2 What is registration?=IDH_REGISTRATION>DefWin
+2 Why should I register?=REGISTRATION_WHY>DefWin
+2 How can I register?=REGISTRATION_HOW>DefWin
+2 Getting a multiple-user site license=REGISTRATION_SITE_LICENSE>DefWin
+2 Registration form=REGISTRATION_FORM>DefWin
+2 Licensing details=REGISTRATION_LICENSE>DefWin
+1 About PicaView
+2 Getting program updates=ABOUT_UPDATES>DefWin
+2 Getting technical support and contributing feedback=ABOUT_SUPPORT>DefWin
+2 Contacting ACD Systems=ABOUT_CONTACT>DefWin
+2 Acknowledgments=ABOUT_ACKNOWLEDGMENTS>DefWin
+2 Frequently asked questions=ABOUT_FAQ>DefWin
